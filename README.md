@@ -1,4 +1,4 @@
-# React Study App
+# --React Study App--
 
 This application was built during a React Core Course and includes functionality that is present in most of the front-end projects. For example:
 - Hooks, both built in and custom ones
